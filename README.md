@@ -23,34 +23,6 @@
 - **Frontend:** React (for MERN stack) or Angular (for MEAN stack)
 - **Real-Time Communication:** Socket.io/WebSocket/WebRTC
 
-## Register Page
-
-![Screenshot 2024-08-07 130409](https://github.com/user-attachments/assets/6be26bd8-d6e4-4774-a5d9-edce27635bf3)
-
-## Login Page
-
-![Screenshot 2024-08-07 130435](https://github.com/user-attachments/assets/eafeb7ad-223e-435b-a544-df05115f24f7)
-
-## Set Profile Avatar
-
-![Screenshot 2024-08-07 130531](https://github.com/user-attachments/assets/99108028-19de-4f90-a3c5-a773a8c91527)
-
-
-## Online Status 
-
-![Screenshot 2024-08-07 171648](https://github.com/user-attachments/assets/8474a61f-aa08-404e-b31c-770d4ef29078)
-
-## Search Contacts
-
-![Screenshot 2024-08-07 131120](https://github.com/user-attachments/assets/31e7533b-b9c3-428f-8afa-214114c89b64)
-
-## Mobile View
-
-![Screenshot 2024-08-07 171836](https://github.com/user-attachments/assets/3af011cd-2a58-4317-b7e7-185c3f5da62e)
-
-![Screenshot 2024-08-07 170410](https://github.com/user-attachments/assets/5781e3ab-f8ac-42c6-9094-cbe2dbcc28b1)
-
-
 ## Installation
 
 ### Frontend
